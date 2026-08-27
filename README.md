@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurelberdancan-cmd/gurelberdancan-cmd/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurelberdancan-cmd/gurelberdancan-cmd/main/light.svg">
-  <img alt="Berdan Can Gurel - Applied AI &amp; Automation Engineer" src="https://raw.githubusercontent.com/gurelberdancan-cmd/gurelberdancan-cmd/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurelberdancan-cmd/gurelberdancan-cmd/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurelberdancan-cmd/gurelberdancan-cmd/main/banner-light.svg">
+  <img alt="Berdan Can Gurel - Applied AI &amp; Automation Engineer" src="https://raw.githubusercontent.com/gurelberdancan-cmd/gurelberdancan-cmd/main/banner-light.svg">
 </picture>
 
 <h3 align="center">Applied AI &amp; Automation Engineer &middot; Backend &middot; Systems Integration</h3>
